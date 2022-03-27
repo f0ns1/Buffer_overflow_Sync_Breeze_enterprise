@@ -63,6 +63,9 @@ NT AUTHORITY\Authenticated Users       Well-known group S-1-5-11     Mandatory g
 Mandatory Label\System Mandatory Level Label            S-1-16-16384             
 ```
 
+![exploit execution](breeze_overflow.png)
+![software and OS version](buffer_overflow_breeze.png)
+
 If you are looking for the public exploit:
 https://www.exploit-db.com/exploits/42928
 
